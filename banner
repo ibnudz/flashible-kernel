@@ -8,6 +8,6 @@
 ##  88     "88,  Y8a     a8P  88            ##
 ##  88       Y8b  "Y88888P"   88888888888   ##
 ################# MY Kernel ##################
-   Kernel=Another kernel
+   Kernel=Custom kernel
    Version="1.1"
    Author="Ibnubert"
